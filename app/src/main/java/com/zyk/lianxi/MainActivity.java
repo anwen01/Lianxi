@@ -16,9 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
         //第一次修改
 
-<<<<<<< HEAD
-=======
+
         //我是分支1..
->>>>>>> mymaster
+        //我是主分支
     }
 }
